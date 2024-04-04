@@ -1,0 +1,23 @@
+{
+  "name": "vinnyrags/packages",
+  "homepage": "https://packages.vincentragosta.dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:vinnyrags/visual-composer.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:vinnyrags/advanced-custom-fields-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:vinnyrags/wordpress-seo-premium.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:vinnyrags/devanime.git"
+    }
+  ],
+  "require-all": true
+}
